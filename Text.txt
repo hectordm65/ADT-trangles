@@ -1,0 +1,57 @@
+CSC2430 Triangle Lab: Written by Hector Dominguez-Maceda
+
+Default triangle: [3, 4, 5]
+The area of your Triangle is 6
+  Triangle is a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is not a isoceles triangle
+
+I like this triangle.
+t2(5, 4, 3) triangle: [5, 4, 3]
+The area of your Triangle is 6
+  Triangle is a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is not a isoceles triangle
+
+I like this triangle.
+t3(4, 5, 3) triangle: [4, 5, 3]
+The area of your Triangle is 6
+  Triangle is a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is not a isoceles triangle
+
+I like this triangle.
+t4(4, 6, 4) triangle: [4, 6, 4]
+The area of your Triangle is 7.93725
+  Triangle is not a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is a isoceles triangle
+
+Hey, this isn't a triangle. I'm going to set it to set your triangle to 3, 4, 5.
+t5(2, 4, 2) triangle: [3, 4, 5]
+The area of your Triangle is 6
+  Triangle is a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is not a isoceles triangle
+
+Assigned t5=t4 triangle: [4, 6, 4]
+The area of your Triangle is 7.93725
+  Triangle is not a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is a isoceles triangle
+
+I like this triangle.
+On-The-Fly assigned Triangle(3, 3, 3) triangle: [3, 3, 3]
+The area of your Triangle is 3.89711
+  Triangle is not a right triangle
+  Triangle is a equilateral triangle
+  Triangle is not a isoceles triangle
+
+I like this triangle.
+Changed sideB triangle: [3, 4, 3]
+The area of your Triangle is 4.47214
+  Triangle is not a right triangle
+  Triangle is not a equilateral triangle
+  Triangle is a isoceles triangle
+
+Press any key to continue . . .
